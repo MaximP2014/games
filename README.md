@@ -1,5 +1,5 @@
 # Overview
-The Python games.
+The Python games
 
 # Screenshots
 
