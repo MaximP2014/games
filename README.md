@@ -4,8 +4,8 @@ The Python games.
 # Screenshots
 
 ## Tetravex
-![alt](/tetravex1.png) 
+![alt](/src/static/tetravex1.png) 
 
-![alt](/tetravex2.png) 
+![alt](/src/static/tetravex2.png) 
 
-![alt](/tetravex3.png)
+![alt](/src/static/tetravex3.png)
